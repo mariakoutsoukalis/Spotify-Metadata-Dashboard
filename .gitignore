@@ -1,0 +1,9 @@
+# Ignore Excel files
+*.xlsx
+
+# Ignore specific Python files
+credentials.py
+variable_descriptions.py
+
+# Ignore Pipfile.lock
+Pipfile.lock
