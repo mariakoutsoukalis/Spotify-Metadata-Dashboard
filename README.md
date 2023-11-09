@@ -1,4 +1,4 @@
-SPOTIFY With SPOTIPY
+Spotify 2023 Weekly Global Tracks Dashboard:
 
 A Spotify Dashboard of Metadata for the Top 10 Tracks Globally in 2023 implementing data handling, analysis, and visualization capabilities using Python libraries and modules (n = 10,387).
 
