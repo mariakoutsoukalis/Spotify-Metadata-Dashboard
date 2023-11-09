@@ -2,8 +2,6 @@ SPOTIFY With SPOTIPY
 
 A Spotify Dashboard of Metadata for the Top 10 Tracks Globally in 2023 implementing data handling, analysis, and visualization capabilities using Python libraries and modules (n = 10,387).
 
-Installation
-
 Packages installed:
 
 pip install pandas openpyxl datetime spotipy dash plotly
