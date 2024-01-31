@@ -1,5 +1,11 @@
 Spotify 2023 Weekly Global Tracks Dashboard:
 
+
+https://github.com/mariakoutsoukalis/Global-Top-Tracks-2023-Interactive-Spotify-Dashboard-with-Python/assets/147335262/72e35354-0303-4b0b-bf96-cef1003d053f
+
+
+
+
 A Spotify Dashboard of Metadata for the Top 10 Tracks Globally in 2023 implementing data handling, analysis, and visualization capabilities using Python libraries and modules (n = 10,387).
 
 Packages installed:
